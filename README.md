@@ -1,7 +1,7 @@
 <h1 align="center">Yo!, I'm Pranav Patil</h1>
 <h3 align="center">A passionate Computer Science and Engineering Student from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=z1xprnv" alt="z1xprnv" /></a> </p>
+
 
 - 🌱 I’m currently learning **MERN Stack**
 
